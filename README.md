@@ -18,7 +18,7 @@ A parametric tool for creating structurally realistic skyscrapers with central c
 
 ## 🚀 Installation
 
-To add the skyscraper generator to your Gemini CLI, ensure you have the [Rhino MCP Server](https://github.com/google/rhino-mcp) running, then execute:
+To add the skyscraper generator to your Gemini CLI, ensure you have the [Rhino MCP Server](https://github.com/jingcheng-chen/rhinomcp) running, then execute:
 
 ```bash
 gemini skills install https://github.com/LeoYuanjieLi/rhinoBot --path rhino-skyscraper-generator --consent
