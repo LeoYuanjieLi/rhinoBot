@@ -1,4 +1,6 @@
 # rhinoBot
+![Skyscraper Cluster](./image.png)
+
 A collection of professional Rhino skills designed to enable Gemini CLI to perform sophisticated parametric modeling in Rhinoceros via the Rhino MCP Server.
 
 ## 🏗️ Available Skills
